@@ -1,43 +1,35 @@
 # Ferrari F40 — 3D Model
 
-A personal 3D modelling project recreating the iconic **Ferrari F40** using Blender.
+A 3D recreation of the iconic Ferrari F40, modelled and rendered in Blender.
 
-## Project Overview
+## Final Render
 
-This project focuses on recreating the Ferrari F40's distinctive exterior design, proportions, and body details using 3D modelling techniques.
+![Ferrari F40 Render](./Ferrari_F40_Render.png)
 
-The model is being developed from reference images and blueprint views, with attention to its recognizable shapes and details.
+## Project Details
 
-## Software
+- **Software:** Blender 5.2.1 LTS
+- **Project Type:** Automotive 3D Modelling
+- **Status:** Completed
 
-- **Blender 5.2.1 LTS**
+## Modelling
 
-## Current Progress
+The Ferrari F40 was recreated using reference images and blueprint views, focusing on its exterior proportions, body shape, and distinctive design details.
 
-The model is currently a work in progress.
+The project includes:
 
-- Front body and hood modelling
-- Headlight and front bumper details
-- Front grille and air vents
-- Wheel arch openings
-- Side body development
-- Early rear body and spoiler modelling
-
-## Render
-
-![Ferrari F40 Render](Ferrari_F40_Render.png)
+- Exterior body modelling
+- Hood and front-end details
+- Headlights and front grille
+- Air vents and wheel arches
+- Wheels and rear spoiler
+- Materials, lighting, and final rendering
 
 ## Project Files
 
 - `Ferrari_F40.blend` — Blender project file
-- `Ferrari_F40_Render.png` — Current render
+- `Ferrari_F40_Render.png` — Final render
 
 ## About
 
-This is an independent 3D modelling project created to improve my hard-surface modelling, automotive design interpretation, and rendering skills.
-
-More progress and refinements will be added as development continues.
-
----
-
-**Status:** Work in Progress
+An independent 3D modelling project created to develop my hard-surface modelling, automotive visualization, and rendering skills.
