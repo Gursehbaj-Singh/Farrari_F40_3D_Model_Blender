@@ -4,7 +4,7 @@ A 3D recreation of the iconic Ferrari F40, modelled and rendered in Blender.
 
 ## Final Render
 
-![Ferrari F40 Final Render](./Ferrari_F40_Render.png)
+![Ferrari F40 Final Render](https://raw.githubusercontent.com/Gursehbaj-Singh/Ferrari_F40_3D_Model_Blender/main/Ferrari_F40_Render.png)
 
 ## Project Details
 
